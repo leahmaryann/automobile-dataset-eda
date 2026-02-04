@@ -16,8 +16,8 @@ This analysis is performed using **Python** with libraries including `pandas`, `
 ## Project Files
 This project includes the following files:
 
-- `Automobiles_EDA.ipynb` – Jupyter Notebook containing the full analysis with code, visualizations, and explanations.  
-- `Automobiles_EDA_Report.pdf` – PDF version of the EDA report, summarizing the findings and insights.  
+- `automobiles.ipynb` – Jupyter Notebook containing the full analysis with code, visualizations, and explanations.  
+- `EDA Report-Automobile Dataset.pdf` – PDF version of the EDA report, summarizing the findings and insights.  
 - `automobile.csv` – Dataset used for the analysis.
 
 
